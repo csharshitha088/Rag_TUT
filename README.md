@@ -1,1 +1,1 @@
-# Rag_TUT
+# Rag based document question answering system

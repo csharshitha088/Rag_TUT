@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-classic
+langchain-ollama
+langchain-chroma
+langchain-text-splitters
+pypdf
+rank-bm25
